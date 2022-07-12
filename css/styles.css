@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #82498c !important;
+}
+
+.bg-p {
+  background: #82498c !important;
+  color: #ffffff;
+}
+/*# sourceMappingURL=styles.css.map */
